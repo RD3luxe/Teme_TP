@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1522539790 source:f:\programe dev\resources\programming learning\c\poker\functiilg.c
+	"info.h"
+
+1521847546 f:\programe dev\resources\programming learning\c\poker\tlg.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<time.h>
+
+1522543266 f:\programe dev\resources\programming learning\c\poker\info.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<time.h>
+
+1522541448 source:f:\programe dev\resources\programming learning\c\poker\main.c
+	<stdio.h>
+	<stdlib.h>
+	"info.h"
+
+1522510584 f:\programe dev\resources\programming learning\c\poker\functiilg.c
+	"info.h"
+
