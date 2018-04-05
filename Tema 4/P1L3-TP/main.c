@@ -44,9 +44,9 @@ int main()
 {
     char s1[50],s2[50];
     printf("Introdu primul sir : ");
-    scanf("%s",s1);
+    gets(s1);
     printf("Introdu sirul 2 : ");
-    scanf("%s",s2);
+    gets(s2);
     if(starts_with(s1,s2))
     {
         printf("Sirul s1 incepe cu sirul s2.\n");
