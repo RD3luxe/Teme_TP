@@ -2,18 +2,18 @@
 
 typedef struct animal
 {
-    char abreviere[9]; //pt bit-ul de \0
+    char abreviere[9]; //ultimul e pt \0
     float greutate;
-    short nr_picioare : 10;
-    short periculos : 2;
-    short varsta : 11;
+    unsigned short nr_picioare : 10;
+    unsigned short periculos : 1;
+    unsigned short varsta : 11;
 
 }animal;
 
 int main()
 {
     animal anim;
-    short nr_p,pericol,age;
+    unsigned short nr_p,pericol,age;
     printf("Nume abreviat : ");
     scanf("%s",anim.abreviere);
     printf("Greutate in kg : ");
