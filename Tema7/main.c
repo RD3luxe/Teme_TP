@@ -69,7 +69,7 @@ int main()
     printf("N : ");
     scanf("%d",&n);
     printBits(nr1);
-    for(i = 0; i < n;i++)
+    for(i = 0; i <= n;i++)
     {
         nr1 = nr1 & ~(1 << i);
     }
