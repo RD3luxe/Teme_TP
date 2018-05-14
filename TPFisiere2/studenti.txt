@@ -1,0 +1,6 @@
+Ana 8
+Maria 9
+Claudia 4
+Dorin 8
+Doru 9
+
