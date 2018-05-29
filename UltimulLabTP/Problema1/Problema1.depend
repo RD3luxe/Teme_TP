@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527545002 source:f:\programe dev\resources\programming learning\c\ultimullabtp\problema1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527553029 source:f:\programe dev\resources\programming learning\c\ultimullabtp\problema3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
